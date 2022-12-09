@@ -1,6 +1,4 @@
----
-title: CV
----
+# CV
 
 ## Education / 学歴
 
