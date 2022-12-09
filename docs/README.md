@@ -29,11 +29,16 @@
     - [フェンリル株式会社](https://www.fenrir-inc.com/jp/)（ソフトウェアエンジニア）
 
 ## Award / 受賞・表彰
-1. [グッドデザイン賞 2021](https://www.g-mark.org/award/describe/52954)。グッドデザイン賞 2021, 公益財団法人日本デザイン振興会。 2021-10-20
-2. [James Dyson Award 2021 日本国内最優秀賞](https://www.dyson.co.uk/newsroom/overview/features/august-2021/james-dyson-award-winners).James Dyson Award 2021, ジェームズダイソン財団。 2021-08-25
-3. [Innovative Technologies 2021 Special Prize – inclusive media –](https://www.dcexpo.jp/news/20472).Innovative Technologies 2021, 一般財団法人デジタルコンテンツ協会。 2021-10-26
-4. [異能ジェネレーションアワード 株式会社アクセストレードセンター 企業特別賞](https://www.inno.go.jp/result/2021/generation/winner/)。異能 vation プログラム 2021, 異能 vation 事務局。 2021-12-15
-5. [知財番付2021 東の前頭.知財番付2021](https://chizaizukan.com/news/6Fv2hXr5m53yPbkS5x8e2H/), 株式会社知財図鑑。 2021-12-21
+1. [グッドデザイン賞 2021](https://www.g-mark.org/award/describe/52954)
+    - グッドデザイン賞 2021, 公益財団法人日本デザイン振興会, 2021-10-20
+2. [James Dyson Award 2021 日本国内最優秀賞](https://www.dyson.co.uk/newsroom/overview/features/august-2021/james-dyson-award-winners)
+    - James Dyson Award 2021, ジェームズダイソン財団, 2021-08-25
+3. [Innovative Technologies 2021 Special Prize – inclusive media –](https://www.dcexpo.jp/news/20472)
+    - Innovative Technologies 2021, 一般財団法人デジタルコンテンツ協会, 2021-10-26
+4. [異能ジェネレーションアワード 株式会社アクセストレードセンター 企業特別賞](https://www.inno.go.jp/result/2021/generation/winner/)
+    - 異能vationプログラム 2021, 異能vation 事務局, 2021-12-15
+5. [知財番付2021 東の前頭.知財番付2021](https://chizaizukan.com/news6Fv2hXr5m53yPbkS5x8e2H/)
+    - 知財番付2021, 株式会社知財図鑑, 2021-12-21
 
 ## 基本情報
 
