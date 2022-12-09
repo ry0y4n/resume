@@ -1,7 +1,3 @@
----
-title: Ryosuke Hyakuta
----
-
 ## Education / 学歴
 
 - 2022 - 2024　修士（情報学）
