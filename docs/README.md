@@ -1,3 +1,9 @@
+---
+layout: page
+title: My Page
+permalink: /
+---
+
 # CV
 
 ## Education / 学歴
