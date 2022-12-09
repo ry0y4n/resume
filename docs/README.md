@@ -1,4 +1,6 @@
-# Ryosuke HYAKUTA
+---
+title: Ryosuke Hyakuta
+---
 
 ## Education / 学歴
 
