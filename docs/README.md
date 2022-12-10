@@ -4,6 +4,8 @@ title: Ryosuke HYAKUTA
 permalink: /
 ---
 
+**写真**と**麻雀**と**日本酒**が趣味の大学院生
+
 ## Education / 学歴
 
 - 2022 - 2024　修士（情報学）
@@ -130,49 +132,30 @@ permalink: /
 ### Radio / ラジオ
 1. [FUTURES 落合陽一 RADIO PIXIE DUST](https://audee.jp/voice/show/35180). JFN系. 2021-10-11
 
-## 基本情報
+## Computer Skills / コンピューティングスキル
 
-|key|value|
-|---|---|
-|氏名||
-|生年月日||
-|Twitter||
-|Qiita||
-|note||
-|Zenn||
-|SpeakerDeck||
+### Language
+    Python, C, C++, Swift
 
----
+### Frontend
+    HTML, CSS, JavaScript, TypeScript, Next (React), Nuxt (Vue)
 
-## 保有スキル
+### Backend
+    Flask, MySQL
 
-- 
+### Mobile
+    Swift UI
 
+### Hardware
+    Arduino, Raspberry Pi, M5Series
 
----
+### Cloud
+    Azure, GCP
 
-## 技術スタック
+### Other
+    Docker, CI/CD
 
-### 言語
+## LANGUAGE
 
-- 
-
-### フレームワーク・その他
-
-- 
-
----
-
-## 職務経歴詳細
-
-### A株式会社（2020/04〜現在）
-
-- 
-
-### B株式会社（2015/04〜2020/03）
-
-- 
-
-## 業務外活動
-
-- 
+- Japanse (Native)
+- English (CEFR B1)
