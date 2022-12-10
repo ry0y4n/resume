@@ -134,26 +134,20 @@ permalink: /
 
 ## Computer Skills / コンピューティングスキル
 
-### Language
-    Python, C, C++, Swift
-
-### Frontend
-    HTML, CSS, JavaScript, TypeScript, Next (React), Nuxt (Vue)
-
-### Backend
-    Flask, MySQL
-
-### Mobile
-    Swift UI
-
-### Hardware
-    Arduino, Raspberry Pi, M5Series
-
-### Cloud
-    Azure, GCP
-
-### Other
-    Docker, CI/CD
+- Language
+    - Python, C, C++, Swift
+- Frontend
+    - HTML, CSS, JavaScript, TypeScript, Next (React), Nuxt (Vue)
+- Backend
+    - Flask, MySQL
+- Mobile
+    - Swift UI
+- Hardware
+    - Arduino, Raspberry Pi, M5Series
+- Cloud
+    - Azure, GCP
+- Other
+    - Docker, CI/CD
 
 ## LANGUAGE
 
