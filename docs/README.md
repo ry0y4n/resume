@@ -1,10 +1,8 @@
 ---
 layout: page
-title: My Page
+title: Ryosuke HYAKUTA
 permalink: /
 ---
-
-# CV
 
 ## Education / 学歴
 
