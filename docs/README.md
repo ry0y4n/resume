@@ -128,7 +128,7 @@ permalink: /
 15. [NHKニュース おはよう日本 (関東甲信越)「コロナ禍で誕生する大学発の新技術」](https://www.nhk.jp/p/ts/7Y32J37JQN/episode/te/3GN318YGZ4/). NHK. 2021-05-18
 
 ### Radio / ラジオ
-1. [FUTURES 落合陽一 RADIO PIXIE DUST](https://audee.jp/voice/show/35180). JFN系. 2021-10-11.
+1. [FUTURES 落合陽一 RADIO PIXIE DUST](https://audee.jp/voice/show/35180). JFN系. 2021-10-11
 
 ## 基本情報
 
