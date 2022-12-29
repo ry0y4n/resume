@@ -64,6 +64,11 @@ permalink: /
 7. [透明パネルで言葉と顔の両方が見えると伝わりやすい？〜聞こえる人と聞こえない人のコミュニケーション](https://www.miraikan.jst.go.jp/events/202106051969.html)
     - 日本科学未来館, JST CREST xDiversityプロジェクト. 日本科学未来館, 東京, 日本. 2021-06-05 to 2021-06-06
 
+## Client Works / 業務・請負など
+
+1. [DeepBillboards](https://sites.google.com/view/deepbillboards/)
+    - システム開発. 異能vationプログラム採択事業の一部受託. 2022-1 to 2022-2
+
 ## Grants / 研究助成
 
 1. [複数の視覚効果を組み合わせることによる仮想物体の重さ知覚制御](https://www.jst.go.jp/kisoken/aip/program/wakate/challenge/list2022.html)
