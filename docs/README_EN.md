@@ -6,7 +6,7 @@ permalink: /en
 
 Big Lover of **Photography**, **Sake** and **Mahjong**.
 
-Japanese version is [here](/)
+Japanese version is [here](/resume)
 
 ## Education
 

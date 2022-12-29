@@ -6,7 +6,7 @@ permalink: /
 
 **写真**と**麻雀**と**日本酒**が趣味の大学院生
 
-English version is [here](/en)
+English version is [here](/resume/en)
 
 ## Education / 学歴
 
