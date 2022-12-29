@@ -6,7 +6,7 @@ permalink: /
 
 **写真**と**麻雀**と**日本酒**が趣味の大学院生
 
-[en](./README_EN.md)
+English version is [here](/en)
 
 ## Education / 学歴
 
@@ -23,7 +23,7 @@ permalink: /
 - 2015 - 2020 準学士（機械工学）
     - 国立米子高等専門学校
         - 機械工学科
-        - 山口研究室（指導教員：山口顕司教授）
+        - [山口研究室](https://www.yonago-k.ac.jp/kikai/image/teacher/seeds_yamaguchi.pdf)（指導教員：山口顕司教授）
 
 ## Work / 職歴
 
@@ -38,16 +38,16 @@ permalink: /
 
 ## Awards / 受賞・表彰
 
-1. [グッドデザイン賞 2021](https://www.g-mark.org/award/describe/52954)
-    - グッドデザイン賞 2021, 公益財団法人日本デザイン振興会. 2021-10-20
-2. [James Dyson Award 2021 日本国内最優秀賞](https://www.dyson.co.uk/newsroom/overview/features/august-2021/james-dyson-award-winners)
-    - James Dyson Award 2021, ジェームズダイソン財団. 2021-08-25
+1. [知財番付2021 東の前頭.知財番付2021](https://chizaizukan.com/news6Fv2hXr5m53yPbkS5x8e2H/)
+    - 知財番付2021, 株式会社知財図鑑. 2021-12-21
+2. [異能ジェネレーションアワード 株式会社アクセストレードセンター 企業特別賞](https://www.inno.go.jp/result/2021/generation/winner/)
+    - 異能vationプログラム 2021, 異能vation 事務局. 2021-12-15
 3. [Innovative Technologies 2021 Special Prize – inclusive media –](https://www.dcexpo.jp/news/20472)
     - Innovative Technologies 2021, 一般財団法人デジタルコンテンツ協会. 2021-10-26
-4. [異能ジェネレーションアワード 株式会社アクセストレードセンター 企業特別賞](https://www.inno.go.jp/result/2021/generation/winner/)
-    - 異能vationプログラム 2021, 異能vation 事務局. 2021-12-15
-5. [知財番付2021 東の前頭.知財番付2021](https://chizaizukan.com/news6Fv2hXr5m53yPbkS5x8e2H/)
-    - 知財番付2021, 株式会社知財図鑑. 2021-12-21
+4. [グッドデザイン賞 2021](https://www.g-mark.org/award/describe/52954)
+    - グッドデザイン賞 2021, 公益財団法人日本デザイン振興会. 2021-10-20
+5. [James Dyson Award 2021 日本国内最優秀賞](https://www.dyson.co.uk/newsroom/overview/features/august-2021/james-dyson-award-winners)
+    - James Dyson Award 2021, ジェームズダイソン財団. 2021-08-25
 
 ## Exhibitions / 展示・作品展
 
@@ -75,7 +75,7 @@ permalink: /
 
 1. [複数の視覚効果を組み合わせることによる仮想物体の重さ知覚制御](https://www.jst.go.jp/kisoken/aip/program/wakate/challenge/list2022.html)
     - CREST AIP Challenge. 1,000,000 円. 2022
-2. [偽心拍数の触覚フィードバックによる感情制御](https://www.are.tsukuba.ac.jp/)
+2. [TBA](https://www.are.tsukuba.ac.jp/)
     - 先導的研究者体験プログラム（指導教官：落合陽一）, 筑波大学. 区分B: 10万円以下, 45,000 円. 2020-07 to 2021-01
 
 ## Publications / 出版
