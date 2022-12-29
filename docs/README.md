@@ -25,8 +25,6 @@ permalink: /
 
 ## Work / 職歴
 
-- 2024 - 
-    - [Microsoft](https://www.microsoft.com/ja-jp/)（クラウドソリューションアーキテクト）
 - 2022 - 2022
     - [Microsoft](https://www.microsoft.com/ja-jp/)（クラウドソリューションアーキテクト）
 - 2021 - 2022
