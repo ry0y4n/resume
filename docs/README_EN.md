@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Ryosuke HYAKUTA
 permalink: /en
 ---
 
