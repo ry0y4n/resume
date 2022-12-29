@@ -1,8 +1,8 @@
-# { name } resume
+# Ryosuke HYAKUTA resume
 
 ## Sample
 
-https://github.com/kawamataryo/resume
+https://ry0y4n.github.io/resume/
 
 ## Features
 
