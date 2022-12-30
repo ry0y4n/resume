@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: post
 permalink: /en
 ---
+
+# Ryosuke HYAKUTA
 
 Big Lover of **Photography**, **Sake** and **Mahjong**.
 
