@@ -3,6 +3,8 @@ layout: page
 permalink: /en
 ---
 
+# Ryosuke HYAKUTA
+
 Big Lover of **Photography**, **Sake** and **Mahjong**.
 
 Japanese version is [here](/resume)
