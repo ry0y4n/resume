@@ -111,7 +111,7 @@ Japanese version is [here](/resume)
 19. [【週刊BUZZ動画】SNSで話題の動画をピックアップ!「透明字幕パネルで伝える言葉」](https://abema.tv/video/episode/89-106_s1_p354). ABEMA. 2021-06-26
 20. [話した言葉を透明パネルに字幕表示　筑波大、「See-Through Captions」開発](https://www.itmedia.co.jp/news/articles/2103/22/news014.html). ITmedia News, 山下裕毅. 2021-03-22
 
-### Newspaper and Magazine / 新聞・雑誌
+### Newspaper and Magazine
 
 1. [特集2 世界は、「あなた」がつくってる（日本科学未来館）](https://kotononeya.stores.jp/items/6273ad0f404e9163222c5871). コトノネ vol.42. 2022-05-20
 2. SFまんがの世界、現実に？　だれとでも顔見て会話を. 朝日小学生新聞, 小勝千尋. 2021-12-01
@@ -121,7 +121,7 @@ Japanese version is [here](/resume)
 6. [話した言葉をすぐに字幕に　透明な板が会話を手助け　筑波大生らが開発、市役所窓口へ](https://www.tokyo-np.co.jp/article/113894). 東京新聞 夕刊, 林容史. 2021-07-01
 7. 透明字幕パネル開発 筑波大 音声認識機能で同時表示. 讀賣新聞 朝刊 茨城県地方版. 2021-04-22
 
-### TV / テレビ
+### TV
 
 1. [シューイチ「KAT-TUN中丸雄一 あることに特化した発明で人生変わったまじっすか人」](https://www.ntv.co.jp/shu-ichi/articles/583pjavr0llpezdwgyv.html). 日本テレビ. 2022-05-29
 2. [ワイドナショー「話した言葉をすぐに字幕に！「シースルーキャプションズ」とは」](https://www.fujitv.co.jp/widna-show/). フジテレビジョン. 2022-03-21
@@ -139,7 +139,7 @@ Japanese version is [here](/resume)
 14. [いば6「コロナ禍から生まれた大学発の新システム」](https://twitter.com/nhk_mito/status/1394850296384327682). NHK 水戸放送局. 2021-05-19
 15. [NHKニュース おはよう日本 (関東甲信越)「コロナ禍で誕生する大学発の新技術」](https://www.nhk.jp/p/ts/7Y32J37JQN/episode/te/3GN318YGZ4/). NHK. 2021-05-18
 
-### Radio / ラジオ
+### Radio
 1. [FUTURES 落合陽一 RADIO PIXIE DUST](https://audee.jp/voice/show/35180). JFN系. 2021-10-11
 
 ## Computer Skills
