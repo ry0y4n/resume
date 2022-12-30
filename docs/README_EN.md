@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+title: EN
 permalink: /en
 ---
 
