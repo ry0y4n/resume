@@ -68,7 +68,7 @@ Japanese version is [here](/resume)
 7. [透明パネルで言葉と顔の両方が見えると伝わりやすい？〜聞こえる人と聞こえない人のコミュニケーション](https://www.miraikan.jst.go.jp/events/202106051969.html)
     - 日本科学未来館, JST CREST xDiversityプロジェクト. 日本科学未来館, 東京, 日本. 2021-06-05 to 2021-06-06
 
-## Client Works / 業務・請負など
+## Client Works
 
 1. [DeepBillboards](https://sites.google.com/view/deepbillboards/)
     - System Development. As part of a commissioned project adopted by the INNO-vation Program. 2022-1 to 2022-2
