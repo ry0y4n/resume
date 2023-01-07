@@ -1,5 +1,7 @@
-theme: minima
 title: CV
 author: Ryosuke Hyakuta
 email: "rusk.ryoy4n@gmail.com"
 google_analytics: G-M53BHFXBVV
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
