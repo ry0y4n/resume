@@ -1,8 +1,10 @@
-# Ryosuke HYAKUTA resume
+# CV - Ryosuke Hyakuta
 
-## Sample
+## Data
 
-https://ry0y4n.github.io/resume/
+- [GitHub Pages](https://ry0y4n.github.io/resume/)
+- [PDF](https://github.com/ry0y4n/resume/releases)
+- [File](https://github.com/ry0y4n/resume/blob/master/docs/README.md)
 
 ## Features
 
