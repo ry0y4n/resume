@@ -53,19 +53,21 @@ English version is [here](/resume/en)
 
 ## Exhibitions / 展示・作品展
 
+1. [ACEフォーラム2022](https://www.j-ace.net/news/20221108aceforum2022/)
+    - 一般社団法人企業アクセシビリティ・コンソーシアム（ACE）. 東京ポートシティ竹芝 ポートホール, 東京, 日本. 2022-12-12
 1. [ACEフォーラム2021](https://www.j-ace.net/news/20211104aceforum2021/)
     - 一般社団法人企業アクセシビリティ・コンソーシアム（ACE）. 東京ポートシティ竹芝 ポートホール, 東京, 日本. 2021-12-01
-2. [私の選んだ一品 [社会のピント] 2021年度グッドデザイン賞審査委員セレクション](https://www.g-mark.org/gdm/exhibition92.html)
+1. [私の選んだ一品 [社会のピント] 2021年度グッドデザイン賞審査委員セレクション](https://www.g-mark.org/gdm/exhibition92.html)
     - 公益財団法人日本デザイン振興会. GOOD DESIGN Marunouchi, 東京, 日本. 2021-10-20 to 2021-11-24
-3. [デジタルコンテンツエキスポ 2021](https://prtimes.jp/main/html/rd/p/000000026.000037875.html)
+1. [デジタルコンテンツエキスポ 2021](https://prtimes.jp/main/html/rd/p/000000026.000037875.html)
     - 一般財団法人デジタルコンテンツ協会. 幕張メッセ, 千葉, 日本. 2021-11-17 to 2021-11-19
-4. [千葉市科学フェスタ](http://www.chibashi-science-festa.com/)
+1. [千葉市科学フェスタ](http://www.chibashi-science-festa.com/)
     - 千葉市科学フェスタ実行委員会（千葉市・千葉市教育委員会・千葉市科学館）. Qiball, 千葉, 日本. 2021-10-10
-5. [Tokyo Tokyo ALL JAPAN Collection「SPORTS × TECHNOLOGY = SMILE」](https://xiborg.jp/sxts/)
+1. [Tokyo Tokyo ALL JAPAN Collection「SPORTS × TECHNOLOGY = SMILE」](https://xiborg.jp/sxts/)
     - 東京都, 東京の産業等の魅力発信イベント実行委員会. 東京スポーツスクエア, 東京, 日本. 2021-09-03 to 2021-09-05
-6. [透明パネルで言葉と顔の両方が見えると伝わりやすい？〜ろう・難聴者向けの展示ツアー](https://www.miraikan.jst.go.jp/events/202108052085.html)
+1. [透明パネルで言葉と顔の両方が見えると伝わりやすい？〜ろう・難聴者向けの展示ツアー](https://www.miraikan.jst.go.jp/events/202108052085.html)
     - 日本科学未来館, JST CREST xDiversityプロジェクト. 日本科学未来館, 東京, 日本. 2021-08-05, 2021-08-08, 2021-08-12, 2021-08-15, 2021-08-19, 2021-08-22, 2021-08-26, 2021-08-29
-7. [透明パネルで言葉と顔の両方が見えると伝わりやすい？〜聞こえる人と聞こえない人のコミュニケーション](https://www.miraikan.jst.go.jp/events/202106051969.html)
+1. [透明パネルで言葉と顔の両方が見えると伝わりやすい？〜聞こえる人と聞こえない人のコミュニケーション](https://www.miraikan.jst.go.jp/events/202106051969.html)
     - 日本科学未来館, JST CREST xDiversityプロジェクト. 日本科学未来館, 東京, 日本. 2021-06-05 to 2021-06-06
 
 ## Client Works / 業務・請負など
