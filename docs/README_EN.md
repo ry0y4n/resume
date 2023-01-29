@@ -23,7 +23,7 @@ Japanese version is [here](/resume)
         - [Digital Nature Group](https://digitalnature.slis.tsukuba.ac.jp/) (Advisor: Assoc. Prof. Yoichi Ochiai)
 
 - 2015 - 2020 Associate Degree of Mechanical Engineering
-    - National Institude of Technology, Yonago College
+    - National Institute of Technology, Yonago College
         - Department of Mechanical Engineering
         - [Yamaguchi Lab](https://www.yonago-k.ac.jp/kikai/image/teacher/seeds_yamaguchi.pdf) (Advisor: Prof. Kenji Yamaguchi)
 
