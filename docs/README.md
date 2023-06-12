@@ -74,6 +74,8 @@ English version is [here](/resume/en)
 
 ## Client Works / 業務・請負など
 
+1. リアルタイム映像中継ロボット開発
+    - システム開発. 業務委託. 2023-1 to 2023-3
 1. [DeepBillboards](https://sites.google.com/view/deepbillboards/)
     - システム開発. 異能vationプログラム採択事業の一部受託. 2022-1 to 2022-2
 

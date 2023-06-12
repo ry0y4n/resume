@@ -72,6 +72,8 @@ Japanese version is [here](/resume)
 
 ## Client Works
 
+1. Development of a Real-Time Video Broadcast Robot
+    - System Development. Contracted Software Development. 2023-1 to 2023-3
 1. [DeepBillboards](https://sites.google.com/view/deepbillboards/)
     - System Development. As part of a commissioned project adopted by the INNO-vation Program. 2022-1 to 2022-2
 
