@@ -29,6 +29,8 @@ English version is [here](/resume/en)
 
 ## Work / 職歴
 
+- 2023 - 現在
+    - [ピクシーダストテクノロジーズ株式会社](https://pixiedusttech.com/)（リサーチエンジニア）
 - 2022 - 2022
     - [Microsoft](https://www.microsoft.com/ja-jp/)（クラウドソリューションアーキテクト）
 - 2021 - 2022
