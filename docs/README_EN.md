@@ -29,7 +29,7 @@ Japanese version is [here](/resume)
 
 ## Work
 
-- 2023 - 現在
+- 2023 - now
     - [Pixie Dust Technologies, Inc.](https://pixiedusttech.com/) (Research Engineer)
 - 2022 - 2022
     - [Microsoft](https://www.microsoft.com/ja-jp/) (Cloud Solution Architect)
