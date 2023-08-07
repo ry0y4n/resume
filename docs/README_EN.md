@@ -31,6 +31,8 @@ Japanese version is [here](/resume)
 
 - 2023 - now
     - [Pixie Dust Technologies, Inc.](https://pixiedusttech.com/) (Research Engineer)
+- 2023 - 2023
+    - [GMO Pepabo, Inc.](https://pepabo.com/)（Software Engineer）
 - 2022 - 2022
     - [Microsoft](https://www.microsoft.com/ja-jp/) (Cloud Solution Architect)
 - 2021 - 2022

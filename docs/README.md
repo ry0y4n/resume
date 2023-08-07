@@ -31,6 +31,8 @@ English version is [here](/resume/en)
 
 - 2023 - 現在
     - [ピクシーダストテクノロジーズ株式会社](https://pixiedusttech.com/)（リサーチエンジニア）
+- 2023 - 2023
+    - [GMOペパボ株式会社](https://pepabo.com/)（ソフトウェアエンジニア）
 - 2022 - 2022
     - [Microsoft](https://www.microsoft.com/ja-jp/)（クラウドソリューションアーキテクト）
 - 2021 - 2022
