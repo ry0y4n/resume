@@ -29,7 +29,9 @@ English version is [here](/resume/en)
 
 ## Work / 職歴
 
-- 2023 - 現在
+- 2024 - 現在
+    - [日本マイクロソフト株式会社](https://www.microsoft.com/)（クラウドソリューションアーキテクト）
+- 2023 - 2024
     - [ピクシーダストテクノロジーズ株式会社](https://pixiedusttech.com/)（リサーチエンジニア）
 - 2023 - 2023
     - [サイボウズ株式会社](https://cybozu.co.jp/)（ソフトウェアエンジニア）

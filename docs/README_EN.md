@@ -28,8 +28,9 @@ Japanese version is [here](/resume)
         - [Yamaguchi Lab](https://www.yonago-k.ac.jp/kikai/image/teacher/seeds_yamaguchi.pdf) (Advisor: Prof. Kenji Yamaguchi)
 
 ## Work
-
-- 2023 - now
+- 2024 - now
+    - [Microsoft Japan Co., Ltd.](https://www.microsoft.com/) (Cloud Solution Architect)
+- 2023 - 2024
     - [Pixie Dust Technologies, Inc.](https://pixiedusttech.com/) (Research Engineer)
 - 2023 - 2023
     - [Cybozu, Inc.](https://cybozu.co.jp/) (Software Engineer)
